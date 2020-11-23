@@ -434,3 +434,5 @@ MigrationBackup/
 
 **/.idea/
 **/.idea.Locale-CS/
+**/.idea/.idea.Locale-CS/.idea
+**/workspace.xml
